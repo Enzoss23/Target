@@ -4,3 +4,5 @@ while(K < INDICE) {
     SOMA=SOMA + K;
 };
 console.log(SOMA);
+
+// o valor da variavel SOMA é 91 
